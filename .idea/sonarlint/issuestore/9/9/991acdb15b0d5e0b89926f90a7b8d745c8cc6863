@@ -1,0 +1,30 @@
+
+h
+java:S2259@"FA "NullPointerException" could be thrown; "response" is nullable here.(ÇÅ¼ùÿÿÿÿ8°ğŠß1
+ƒ
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ôã¢ëıÿÿÿÿ8ùı¹ß1
+O
+java:S1135!"2Complete the task associated to this TODO comment.(®Èè8ûı¹ß1
+r
+java:S1989%"UHandle the following exception that could be thrown by "openConnection": IOException.(Ñ•¯Î8ıı¹ß1
+y
+java:S1989&"]Handle the following exception that could be thrown by "setRequestMethod": ProtocolException.(”—üH8ıı¹ß1
+x
+java:S1989'"VHandle the following exception that could be thrown by "getResponseCode": IOException.(ÇÇ”ıÿÿÿÿ8ıı¹ß1
+r
+java:S1989*"UHandle the following exception that could be thrown by "getInputStream": IOException.(ƒÄê×8şı¹ß1
+l
+java:S1989-"OHandle the following exception that could be thrown by "readLine": IOException.(–®Â­8ÿı¹ß1
+n
+java:S19890"LHandle the following exception that could be thrown by "close": IOException.(€¶º‡ıÿÿÿÿ8ÿı¹ß1
+L	java:S1061"+Replace this use of System.out by a logger.(Ğ¼–ûÿÿÿÿ8ÿı¹ß1
+L	java:S1063"+Replace this use of System.out by a logger.(˜ûáÒüÿÿÿÿ8ÿı¹ß1
+]	java:S1257"<This block of commented-out lines of code should be removed.(¥ÃË÷şÿÿÿÿ8ÿı¹ß1
+ƒ
+java:S1989A"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¢È†ƒøÿÿÿÿ8€ş¹ß1
+I
+java:S1128",Remove this unused import 'models.Students'.(­«ıá8€ş¹ß1
+T
+java:S1128"2Remove this unused import 'javax.json.bind.Jsonb'.(Ø”€¡üÿÿÿÿ8€ş¹ß1
+V
+java:S1128"9Remove this unused import 'javax.json.bind.JsonbBuilder'.(ûÿÖş8€ş¹ß1
